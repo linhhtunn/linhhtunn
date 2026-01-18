@@ -1,3 +1,13 @@
+## 🌱 About Me
+
+- 🎓 Third-year student majoring in **Software Engineering** at **Electric Power University**
+- 🏆 **GPA: 4.0 / 4.0** (latest semester) – **Excellent Scholarship (2 consecutive semesters)**
+- 💻 Career orientation: **Full Stack Developer / System Analyst**
+- 🎯 Strong interest in **Web Development, System Analysis, UML, and Software Testing**
+- 📚 Familiar with teamwork, Agile mindset, and structured development processes
+
+---
+
 ## 💻 Tech Stack
 
 ### Frontend
