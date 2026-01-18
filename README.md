@@ -1,24 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Thùy Linh</h1>
-<h3 align="center">Intern / Junior Software Developer</h3>
-
-<p align="center">
-Third-year Software Engineering student at Electric Power University (EPU).  
-I am seeking an <b>Intern / Junior</b> position where I can apply my knowledge in
-<b>Frontend Development, System Analysis, Testing, and .NET</b> while learning through real-world projects.
-</p>
-
----
-
-## 🌱 About Me
-
-- 🎓 Third-year student majoring in **Software Engineering** at **Electric Power University**
-- 🏆 **GPA: 4.0 / 4.0** (latest semester) – **Excellent Scholarship (2 consecutive semesters)**
-- 💻 Career orientation: **Full Stack Developer / System Analyst**
-- 🎯 Strong interest in **Web Development, System Analysis, UML, and Software Testing**
-- 📚 Familiar with teamwork, Agile mindset, and structured development processes
-
----
-
 ## 💻 Tech Stack
 
 ### Frontend
@@ -98,4 +77,3 @@ I am seeking an <b>Intern / Junior</b> position where I can apply my knowledge i
 - 📘 Facebook: thuy.linh.3192  
 - 📍 Location: Cầu Giấy, Hà Nội  
 
-💬 I am actively seeking an **Intern / Junior Software Developer** position and eager to learn through real projects in a professional environment.
