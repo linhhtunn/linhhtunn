@@ -64,13 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=linhhtunn&theme=dark&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=linhhtunn&theme=dark&hide_border=true)
-
----
-
 ## 📫 Contact
 
 - 📧 Email: thuylinhnguyen130405@gmail.com  
